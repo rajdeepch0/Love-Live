@@ -1,0 +1,493 @@
+Address,Phone_number,School_Name,School_Type,Suburb,URL,Rating
+"51 Mt Pleasant Road, Belmont VIC 3216",03 5243 2972,Belmont Primary School,Primary,Belmont,http://www.belmontps.vic.edu.au/,3.8
+"37 Fairholme Boulevard, Berwick VIC 3806",03 9707 1026,Berwick Primary School,Primary,Berwick,http://www.berwickprimary.vic.edu.au/,4.1
+"231 Charman Road, Cheltenham VIC 3192",03 8585 3200,Cheltenham Primary School,Primary,Cheltenham,http://cheltenhamps.vic.edu.au/,4
+"Elizabeth Street, Newport VIC 3015",03 9391 8942,Newport Lakes Primary School,Primary,Newport,http://www.newportlakesps.vic.edu.au/,5
+"Cnr Mostyn & Urquhart Street, Castlemaine VIC 3450",03 5472 1452,Castlemaine Primary School,Primary,Castlemaine,http://www.castlemaineps.vic.edu.au/,3.8
+"Mcculloch Street, Dromana VIC 3936",03 5987 2367,Dromana Primary School,Primary,Dromana,http://dromanaps.vic.edu.au/?id=9,4
+"2 - 12 Council Street, Doncaster VIC 3108",03 9848 1122,Doncaster Primary School,Primary,Doncaster,http://doncasterps.vic.edu.au/,3.9
+"Dalton Street, Eltham VIC 3095",03 9439 9374,Eltham Primary School,Primary,Eltham,http://www.elthamps.vic.edu.au/,2.2
+"Mt Alexander Road, Flemington VIC 3031",03 9376 7137,Flemington Primary School,Primary,Flemington,http://www.flemingtonps.vic.edu.au/,4.3
+"Cnr Geelong Road & Barkly St, Footscray VIC 3011",03 9687 1910,Footscray Primary School,Primary,Footscray,http://www.footscrayps.vic.edu.au/,3.2
+"143 Bailey Street, Grovedale VIC 3216",03 5243 3902,Grovedale Primary School,Primary,Grovedale,http://grovedaleps.vic.edu.au/,3.1
+"Cnr Wood Street & Burwood Road, Hawthorn VIC 3122",03 9818 2233,Hawthorn West Primary School,Primary,Hawthorn,http://www.hawthornwestps.vic.edu.au/,3.7
+"Cape Street, Heidelberg VIC 3084",03 9457 2259,Heidelberg Primary School,Primary,Heidelberg,http://www.heidelbergps.vic.edu.au/,4.7
+"1206 Geelong Road, Mount Clear VIC 3350",03 5330 1844,Mount Clear Primary School,Primary,Mount Clear,http://mountclearps.vic.edu.au/,3
+"Unitt Street, Melton VIC 3337",03 9743 5335,Melton Primary School,Primary,Melton,http://meltonps.vic.edu.au/,3.5
+"319 George Street, Fitzroy VIC 3065",03 9417 4222,Fitzroy Primary School,Primary,Fitzroy,http://fitzroyprimaryschool.vic.edu.au/,4.2
+"38 Raleigh Street, Essendon VIC 3040",03 9370 7816,Essendon Primary School,Primary,Essendon,http://www.essendonps.vic.edu.au/,3.5
+"92 Bell Street, Coburg VIC 3058",03 9354 9332,Coburg Primary School,Primary,Coburg,http://www.coburgps.vic.edu.au/,3.9
+"6 Spring Street, Thomastown VIC 3074",03 9465 2225,Thomastown Primary School,Primary,Thomastown,http://www.thomastownps.vic.edu.au/,4.9
+"2 Deutgam Street, Werribee VIC 3030",03 9742 6659,Werribee Primary School,Primary,Werribee,http://www.werribeeps.vic.edu.au/,2.9
+"3 Roberts Avenue, Castlemaine VIC 3450",03 5472 1522,Winters Flat Primary School,Primary,Castlemaine,http://www.winters-flat-ps.vic.edu.au/,3.4
+"1714 Dandenong Road, Clayton VIC 3168",03 9544 1522,Clayton North Primary School,Primary,Clayton,http://www.claytonnorthps.vic.edu.au/,4
+"56B Hotham Street, Preston VIC 3072",03 9484 1544,Preston South Primary School,Primary,Preston,http://www.prestonsouthps.vic.edu.au/,4.8
+"58 Barkly Street, Mordialloc VIC 3195",03 9580 1468,Mordialloc Beach Primary School,Primary,Mordialloc,http://www.mordiallocps.vic.edu.au/,3.4
+"63 - 65 Castella Street, Lilydale VIC 3140",03 9735 1642,Lilydale Primary School,Primary,Lilydale,http://www.lilydaleps.vic.edu.au/,3.3
+"290 Camberwell Road, Camberwell VIC 3124",03 9882 4663,Camberwell Primary School,Primary,Camberwell,http://www.camberwellps.vic.edu.au,3.8
+"60-80 Olympic Parade, Kangaroo Flat VIC 3555",03 5447 5100,Kangaroo Flat Primary School,Primary,Kangaroo Flat,http://www.kangarooflatps.vic.edu.au/,3.5
+"41 The Heights, Sunbury VIC 3429",03 9744 9744,Sunbury Primary School,Primary,Sunbury,http://www.sunburyps.vic.edu.au/,4
+"4-10 Nurlendi Road, Vermont VIC 3133",03 9874 2511,Vermont Primary School,Primary,Vermont,http://www.vermontps.vic.edu.au/,3.4
+"86B Balwyn Road, Balwyn VIC 3103",03 9836 7121,Balwyn Primary School,Primary,Balwyn,http://balwynps.vic.edu.au/,4.4
+"11 Ingrid Street, Scoresby VIC 3179",03 9763 7484,Scoresby Primary School,Primary,Scoresby,http://www.scoresbyps.vic.edu.au/,3.7
+"Peel Street, Kew VIC 3101",03 9853 8325,Kew Primary School,Primary,Kew,http://www.kewps.vic.edu.au/,4.3
+"89a Cuthberts Road, Alfredton VIC 3350",03 5334 1572,Alfredton Primary School,Primary,Alfredton,http://www.alfredtonps.vic.edu.au/,2.3
+"10 - 20 Hodgins Road, Hastings VIC 3915",03 5979 1517,Hastings Primary School,Primary,Hastings,http://hastingsprimary.vic.edu.au/,5
+"170 Glen Iris Road, Glen Iris VIC 3146",03 9885 3624,Glen Iris Primary School,Primary,Glen Iris,http://www.gips.vic.edu.au/,4.3
+"9 Warreen Street, Sebastopol VIC 3356",03 5335 8157,Sebastopol Primary School,Primary,Sebastopol,http://www.sebasps.vic.edu.au/,3
+"Bridport Street, Albert Park VIC 3206",03 9699 9090,Albert Park Primary School,Primary,Albert Park,http://www.albertparkps.vic.edu.au/,4.1
+"Cecil Street, Williamstown VIC 3016",03 9397 1248,Williamstown Primary School,Primary,Williamstown,http://www.williamstownps.vic.edu.au,3.7
+"202 Simpson Street, Buninyong VIC 3357",03 5341 3560,Buninyong Primary School,Primary,Buninyong,http://buninyongps.vic.edu.au/,4.8
+"185 Gold St, Clifton Hill VIC 3068",03 9489 8333,Clifton Hill Primary School,Primary,Clifton Hill,http://www.cliftonhillps.vic.edu.au/,4.9
+"210 Errol Street, North Melbourne VIC 3051",03 9329 6902,North Melbourne Primary School,Primary,North Melbourne,http://www.northmelbourneps.vic.edu.au/,3.5
+"174-182 Foster Street, Dandenong VIC 3175",03 9792 2743,Dandenong Primary School,Primary,Dandenong,http://www.dandenongps.vic.edu.au/,3.9
+"133 Melbourne Road, Williamstown VIC 3016",03 9397 5722,Williamstown North Primary School,Primary,Williamstown,http://www.willynthps.vic.edu.au/,3.9
+"Davey Street, Frankston VIC 3199",03 9783 3769,Frankston Primary School,Primary,Frankston,http://www.frankstonps.vic.edu.au/,3.3
+"2B Brighton Road, St Kilda VIC 3182",03 9534 3993,St Kilda Primary School,Primary,St Kilda,http://www.stkildaps.vic.edu.au/,3.7
+"240 Tyler Street, Preston VIC 3072",03 9470 1167,Preston Primary School,Primary,Preston,http://www.preston-ps.vic.edu.au/,3.9
+"78 - 98 Manningtree Road, Hawthorn VIC 3122",03 9818 4338,Glenferrie Primary School,Primary,Hawthorn,http://www.glenferrieps.vic.edu.au/,3.9
+"59 Wilson Street, Brighton VIC 3186",03 9592 0177,Brighton Primary School,Primary,Brighton,http://www.brighton.vic.edu.au/,4.4
+"Golf Links Road, Barwon Heads VIC 3227",03 5254 2324,Barwon Heads Primary School,Primary,Barwon Heads,http://bhps.vic.edu.au/,3.8
+"25 Kennedy Street, Keilor VIC 3036",03 9336 7098,Keilor Primary School,Primary,Keilor,http://www.keilorps.vic.edu.au/,3.5
+"20 Warrigal Road, Oakleigh VIC 3166",03 9568 0558,Oakleigh Primary School,Primary,Oakleigh,https://www.oakleighps.vic.edu.au/,4.6
+"Spring Road, Malvern VIC 3144",03 8823 9500,Malvern Central School,Primary,Malvern,http://www.malvern-central.vic.edu.au/,2.4
+"1224 Howitt Street, Wendouree VIC 3355",03 5339 1229,Wendouree Primary School,Primary,Wendouree,http://www.wendoureeps.vic.edu.au/,5
+"Lithgow Street, Abbotsford VIC 3067",03 9428 5977,Abbotsford Primary School,Primary,Abbotsford,http://www.abbotsfordps.vic.edu.au/,4
+"Hornby Street, Windsor VIC 3181",03 9521 3711,Windsor Primary School,Primary,Windsor,http://www.windsorps.vic.edu.au/,3.8
+"10 Hyde Street, Footscray VIC 3011",03 9687 2826,Footscray City Primary School,Primary,Footscray,http://www.fcps.vic.edu.au/,4.9
+"48 Blossom Park Drive, Mill Park VIC 3082",03 9404 4311,Plenty Parklands Primary School,Primary,Mill Park,http://www.plentyparklands-ps.vic.edu.au/,3.9
+"Vale Street, Mornington VIC 3931",03 5976 5500,Mornington Primary School,Primary,Mornington,http://www.morningtonps.vic.edu.au/,4
+"19 Windermere Crescent, Brighton VIC 3186",03 9591 0888,Brighton Beach Primary School,Primary,Brighton,http://www.brightonbeachps.vic.edu.au/,4.5
+"270 Barker Street, Castlemaine VIC 3450",03 5472 1391,Castlemaine North Primary School,Primary,Castlemaine,http://www.castlemainenorthps.vic.edu.au/,3.9
+"130 Grimshaw Street, Greensborough VIC 3088",03 9435 1496,Greensborough Primary School,Primary,Greensborough,http://greensborough.vic.edu.au/,4.4
+"Bakewell Street, Cranbourne VIC 3977",03 5996 1744,Cranbourne Primary School,Primary,Cranbourne,http://www.cranbourne-ps.vic.edu.au/,4.1
+"2425-2435 Plenty Road, Whittlesea VIC 3757",03 9716 2140,Whittlesea Primary School,Primary,Whittlesea,http://whittleseaps.vic.edu.au/,3.7
+"44 Bowen Street, Warragul VIC 3820",03 5623 2460,Warragul Primary School,Primary,Warragul,https://warragulps.vic.edu.au/,4
+"40 Albert Street, Moe VIC 3825",03 5127 1966,Moe (Albert Street) Primary School,Primary,Moe,http://www.aspsmoe.vic.edu.au/,4
+"Birch Street, Bayswater VIC 3153",03 9721 3755,Bayswater Primary School,Primary,Bayswater,http://www.bayswaterps.vic.edu.au/,4.6
+"Gladeswood Drive, Mulgrave VIC 3170",03 9795 2477,Mulgrave Primary School,Primary,Mulgrave,http://mulgraveps.vic.edu.au/,4.4
+"Mccracken Street, Kensington VIC 3031",03 9376 6013,Kensington Primary School,Primary,Kensington,http://www.kensingtonps.vic.edu.au/,4.3
+"122 Waterdale Road, Ivanhoe VIC 3079",03 9499 1880,Ivanhoe Primary School,Primary,Ivanhoe,http://www.ivanhoeps.vic.edu.au/,4.3
+"68 Fitzroy Street, St Kilda VIC 3182",03 8598 6444,St Kilda Park Primary School,Primary,St Kilda,http://www.skipps.vic.edu.au/,5
+"215 Rathdowne Street, Carlton VIC 3053",03 9663 6502,Carlton Gardens Primary School,Primary,Carlton,http://carltongardens.vic.edu.au/,4.5
+"Bank Street, Ascot Vale VIC 3032",03 9370 6507,Ascot Vale Primary School,Primary,Ascot Vale,http://www.avps.vic.edu.au/,4.6
+"9-23 Densham Road, Armadale VIC 3143",03 9822 7003,Armadale Primary School,Primary,Armadale,http://www.armadaleps.vic.edu.au/,4.2
+"Langridge Street, Fairfield VIC 3078",03 9489 2966,Fairfield Primary School,Primary,Fairfield,http://fairfieldps.vic.edu.au/,3.5
+"2 Beatrice Avenue, Surrey Hills VIC 3127",03 9890 1560,Surrey Hills Primary School,Primary,Surrey Hills,http://www.surreyhillsps.vic.edu.au/,4.6
+"100 Montague Street, South Melbourne VIC 3205",03 9690 3535,Montague Continuing Education Centre,Special,South Melbourne,http://www.montague.vic.edu.au/,4
+"194 Richardson Street, Middle Park VIC 3206",03 9690 1336,Middle Park Primary School,Primary,Middle Park,http://www.middleparkps.vic.edu.au/,3.6
+"30 Powell Street, Yarraville VIC 3013",03 9314 3816,Yarraville West Primary School,Primary,Yarraville,http://www.ywps.vic.edu.au/,3.7
+"157-163 Moreland Road, Coburg VIC 3058",03 9386 2510,Moreland Primary School,Primary,Coburg,http://www.morelandps.vic.edu.au/,5
+"Murphy Street, Brighton VIC 3186",03 8534 6100,Elsternwick Primary School,Primary,Brighton,http://www.elsternwickps.vic.edu.au/,4.3
+"51 Truganini Road, Carnegie VIC 3163",03 9571 2662,Carnegie Primary School,Primary,Carnegie,http://carnegieps.vic.edu.au/page/90/Contact-Details,3.4
+"Cnr Kent Avenue & Croydon Road, Croydon VIC 3136",03 9723 2472,Croydon Primary School,Primary,Croydon,http://croydonps.vic.edu.au/,4.4
+"150 Athol Street, Moonee Ponds VIC 3039",03 9370 6875,Moonee Ponds West Primary School,Primary,Moonee Ponds,http://mooneewestps.vic.edu.au/,3.2
+"294 Mitcham Road, Mitcham VIC 3132",03 9873 1551,Mitcham Primary School,Primary,Mitcham,http://www.mitcham.ps.vic.edu.au/,3.8
+"185 Surrey Road, Blackburn VIC 3130",03 9878 1483,Blackburn Primary School,Primary,Blackburn,http://www.blackburnps.vic.edu.au/,4.6
+"415 Graham Street, Port Melbourne VIC 3207",03 9646 1001,Port Melbourne Primary School,Primary,Port Melbourne,http://www.portmelb.vic.edu.au/,4.1
+"6 Childers Street, Mentone VIC 3194",03 9583 2995,Mentone Primary School,Primary,Mentone,http://mentoneps.vic.edu.au/,4.2
+"39 West Esplanade, St Albans VIC 3021",03 9366 2832,St Albans Primary School,Primary,St Albans,http://www.stalbps.vic.edu.au/,3.8
+"Canterbury Road, Toorak VIC 3142",03 9827 2959,Toorak Primary School,Primary,Toorak,http://www.toorakps.vic.edu.au/,3.6
+"362 Gaffney Street, Pascoe Vale VIC 3044",03 9354 1611,Pascoe Vale Primary School,Primary,Pascoe Vale,http://www.pvps.vic.edu.au/,4.3
+"1 - 23 Draper Street, Ocean Grove VIC 3226",03 5255 1340,Ocean Grove Primary School,Primary,Ocean Grove,http://www.ogps.vic.edu.au/,5
+"Wales Street, Thornbury VIC 3071",03 9484 3949,Wales Street Primary School,Primary,Thornbury,http://www.walesstps.vic.edu.au/,4.2
+"193 Spensley Street, Clifton Hill VIC 3068",03 9481 4666,Spensley Street Primary School,Primary,Clifton Hill,http://www.ssps.vic.edu.au/,5
+"45-55 Grossmans Road, Torquay VIC 3228",03 5261 2360,Torquay P-6 College,Primary,Torquay,http://www.torquaycollege.vic.edu.au/,5
+"37-45 Park Lane, Mount Waverley VIC 3149",03 9807 1480,Mount Waverley Primary School,Primary,Mount Waverley,http://www.mountwaverleyps.vic.edu.au/,3.5
+"Hobart Road, Murrumbeena VIC 3163",03 9568 1300,Murrumbeena Primary School,Primary,Murrumbeena,http://www.murrumbeenaps.vic.edu.au/,3.9
+"1 Sylvester Grove, Preston VIC 3072",03 9478 8895,Yarra Me School,Special,Preston,http://www.yarrame.vic.edu.au/,4
+"39-49 Community Hub, Sydenham VIC 3037",03 9361 5300,Sydenham - Hillside Primary School,Primary,Sydenham,https://www.sydenham.vic.edu.au/,4.6
+"Molesworth Street, Canterbury VIC 3126",03 9836 4537,Canterbury Primary School,Primary,Canterbury,http://canterburyps.vic.edu.au/,4.4
+"Lorne Street, Fawkner VIC 3060",03 9357 3579,Fawkner Primary School,Primary,Fawkner,http://www.fawknerps.vic.edu.au/,4.9
+"Yarralea Street, Alphington VIC 3078",03 9499 2200,Alphington Primary School,Primary,Alphington,http://www.alphinps.vic.edu.au/,4.8
+"145 Studley Road, Heidelberg VIC 3084",03 9496 5324,Austin Hospital School,Special,Heidelberg,http://www.austinschool.vic.edu.au/,5
+"90 Cadles Road, Carrum Downs VIC 3201",03 9782 1333,Banyan Fields Primary School,Primary,Carrum Downs,http://www.bfps.vic.edu.au/,4.1
+"146 Settlement Road, Bundoora VIC 3083",03 9467 2206,Norris Bank Primary School,Primary,Bundoora,http://www.norrisbkps.vic.edu.au/,4
+"Melbourne Road, Spotswood VIC 3015",03 9391 1323,Spotswood Primary School,Primary,Spotswood,http://www.spotswoodps.vic.edu.au/,4.5
+"65 Buckley Street, Noble Park VIC 3174",03 9546 8811,Noble Park Primary School,Primary,Noble Park,http://www.nobleparkps.vic.edu.au/,4.2
+"120 Mountain Highway, Wantirna VIC 3152",03 9801 1938,Wantirna Primary School,Primary,Wantirna,http://www.wantirnaprimary.vic.edu.au/,4.3
+"34-44 Argyle Ave, Chelsea VIC 3196",03 9773 2055,Chelsea Primary School,Primary,Chelsea,http://www.chelseaps.vic.edu.au/,5
+"370 Victoria Road, Thornbury VIC 3071",03 9484 1076,Penders Grove Primary School,Primary,Thornbury,http://www.pendersgroveps.vic.edu.au/,3.4
+"Mcrae Street, Seaford VIC 3198",03 9786 1357,Seaford Primary School,Primary,Seaford,http://www.seafordps.vic.edu.au/,4
+"225 Warrigal Road, Burwood VIC 3125",03 9808 2165,Wattle Park Primary School,Primary,Burwood,http://www.wattleparkps.vic.edu.au/page/84/Contact-Us,4
+"383 Murray Road, Preston VIC 3072",03 9470 1546,Preston West Primary School,Primary,Preston,http://www.prestonwest.vic.edu.au/home/contact_us.aspx,3.7
+"16-22 Hutton Street, Thornbury VIC 3071",03 9484 3254,Thornbury Primary School,Primary,Thornbury,http://thornburyps.vic.edu.au/,4
+"79-99 Dalgetty Road, Beaumaris VIC 3193",03 9589 2619,Beaumaris Primary School,Primary,Beaumaris,http://www.beaups.vic.edu.au/,4.2
+"109 Blyth Street, Altona VIC 3018",03 9398 2925,Altona Primary School,Primary,Altona,http://www.altonaps.vic.edu.au/,4.3
+"Main Road, Hurstbridge VIC 3099",03 9718 2386,Hurstbridge Primary School,Primary,Hurstbridge,http://www.hbridgeps.vic.edu.au/,2
+"185-187 Reynard Street, Coburg VIC 3058",03 9386 1286,Coburg West Primary School,Primary,Coburg,http://www.cobw.vic.edu.au/,3.8
+"Scott Street, Elwood VIC 3184",03 9531 2762,Elwood Primary School,Primary,Elwood,http://www.elwoodprimary.vic.edu.au/,4
+"Barloa Road, Mont Albert VIC 3127",03 9890 1331,Mont Albert Primary School,Primary,Mont Albert,http://www.maps.vic.edu.au/,3
+"Duffy Street, Reservoir VIC 3073",03 9460 5798,Reservoir Primary School,Primary,Reservoir,http://www.reservoirps.vic.edu.au/,2.9
+"87 Wilson Street, Moonee Ponds VIC 3039",03 9375 2511,Moonee Ponds Primary School,Primary,Moonee Ponds,http://www.mpp.vic.edu.au/,4.2
+"58 Bishop Street, Yarraville VIC 3013",03 9314 5869,Kingsville Primary School,Primary,Yarraville,http://kingsvilleps.vic.edu.au/,4.4
+"Langs Rd, Ascot Vale VIC 3032",03 9370 8784,Ascot Vale West Primary School,Primary,Ascot Vale,http://www.avwps.vic.edu.au/,4.3
+"Milverton St, Camberwell VIC 3124",03 9889 4012,Hartwell Primary School,Primary,Camberwell,http://www.hartwellps.vic.edu.au/,3.1
+"Somerville Road, Hampton Park VIC 3976",03 9799 1440,Hampton Park Primary School,Primary,Hampton Park,http://www.hpps.vic.edu.au/,4.2
+"60a Rattray Road, Montmorency VIC 3094",03 9434 5944,Montmorency Primary School,Primary,Montmorency,https://www.montmorencyps.vic.edu.au/,3.4
+"2-10 Pascoe Street, Pascoe Vale VIC 3044",03 9306 9481,Westbreen Primary School,Primary,Pascoe Vale,http://www.westbreenps.vic.edu.au/,4.4
+"14 Rosamond Road, Footscray VIC 3011",03 9317 9047,Footscray North Primary School,Primary,Footscray,http://www.footsnth.vic.edu.au/,4.4
+"Peate Avenue, Glen Iris VIC 3146",03 9889 4295,Camberwell South Primary School,Primary,Glen Iris,http://www.cambsth.vic.edu.au/,4.1
+"305-311 Nepean Highway, Parkdale VIC 3195",03 9580 1451,Parkdale Primary School,Primary,Parkdale,http://www.parkdaleps.vic.edu.au/,4.8
+"Brine Street, Hughesdale VIC 3166",03 9570 4808,Hughesdale Primary School,Primary,Hughesdale,http://www.hughesdaleps.vic.edu.au/,4.3
+"23 Laura Street, Aspendale VIC 3195",03 9580 3255,Aspendale Primary School,Primary,Aspendale,https://www.aspendale.vic.edu.au/,4
+"32 Birdwood Avenue, Dandenong VIC 3175",03 9792 2868,Dandenong West Primary School,Primary,Dandenong,http://www.dandenongwestps.vic.edu.au/,4.3
+"222 - 228 Yarra Road, Croydon VIC 3136",03 9723 4182,Yarra Road Primary School,Primary,Croydon,http://www.yarrardps.vic.edu.au/,5
+"1 Doone Street, Essendon VIC 3040",03 9337 8084,Aberfeldie Primary School,Primary,Essendon,http://www.aberfeldieps.vic.edu.au/,3.2
+"33 Klauer St, Seaford VIC 3198",03 9786 9111,Nepean Special School,Special,Seaford,http://www.nepean.vic.edu.au/,4
+"78A Oakover Road, Preston VIC 3072",03 9480 5622,Bell Primary School,Primary,Preston,http://www.bellps.vic.edu.au,3.2
+"Weybridge Street, Surrey Hills VIC 3127",03 9830 1933,Chatham Primary School,Primary,Surrey Hills,http://www.chathamps.vic.edu.au/,3.4
+"Fakenham Road, Ashburton VIC 3147",03 9885 2559,Ashburton Primary School,Primary,Ashburton,http://ashburtonps.vic.edu.au/,4.6
+"23 Brewer Road, Bentleigh VIC 3204",03 9557 1228,Bentleigh West Primary School,Primary,Bentleigh,http://www.bentleighwestps.vic.edu.au/,4
+"97 Fleetwood Drive, Narre Warren VIC 3805",03 9705 2281,Fleetwood Primary School,Primary,Narre Warren,http://www.fleetwoodps.vic.edu.au/,3.1
+"180 O'Hea Street, Coburg VIC 3058",03 9354 1660,Coburg North Primary School,Primary,Coburg,http://www.coburg-north-ps.vic.edu.au/,4.5
+"Winton Road, Ashburton VIC 3147",03 9885 2421,Solway Primary School,Primary,Ashburton,http://www.solwayps.vic.edu.au/,3.9
+"2-26 Murphy Street, Preston VIC 3072",03 9354 2928,Newlands Primary School,Primary,Preston,http://newlandsps.vic.edu.au/,4.4
+"24 Murray Road, Newborough VIC 3825",03 5127 1448,Newborough Primary School,Primary,Newborough,http://www.newboroughps.vic.edu.au/,4
+"34 South Street, Moe VIC 3825",03 5127 1512,Moe (South Street) Primary School,Primary,Moe,http://www.moe-southst-ps.vic.edu.au/,4.7
+"183 Roslyn Road, Belmont VIC 3216",03 5243 3538,Roslyn Primary School,Primary,Belmont,http://www.roslynps.vic.edu.au/,4.4
+"Cnr Woods St & Maddox Rd, Newport VIC 3015",03 9391 2168,Newport Gardens Primary School,Primary,Newport,http://www.newportgardensps.vic.edu.au/,4.7
+"300 Old Sale Road, Newborough VIC 3825",03 5126 1399,Newborough East Primary School,Primary,Newborough,http://www.neps.vic.edu.au/,4
+"49 Stroud Street, Balwyn VIC 3103",03 9859 8762,Belmore School,Special,Balwyn,http://www.belmoresc.vic.edu.au/,4
+"6A Ashleigh Avenue, Frankston VIC 3199",03 9789 9552,Frankston East Primary School,Primary,Frankston,http://www.frankstoneastps.vic.edu.au/,5
+"58 Boldrewood Parade, Reservoir VIC 3073",03 9460 1569,Reservoir East Primary School,Primary,Reservoir,http://www.reps.vic.edu.au/,4.8
+"16 Tucker Rd, Bentleigh VIC 3204",03 9557 2044,Tucker Road Bentleigh Primary School,Primary,Bentleigh,http://www.tucker-road.vic.edu.au/,4.2
+"5 O'Dowds Road, Warragul VIC 3820",03 5623 4066,Warragul North Primary School,Primary,Warragul,http://www.warragulnorthps.vic.edu.au/,3.8
+"26 Maxwell Street, Lalor VIC 3075",03 9465 3037,Lalor Primary School,Primary,Lalor,http://www.lalorps.vic.edu.au/,4.2
+"5a Carrington Road, Reservoir VIC 3073",03 9478 8211,Reservoir West Primary School,Primary,Reservoir,http://www.rwps.vic.edu.au/,3
+"111 Forest Road, Ferntree Gully VIC 3156",03 9758 1662,Ferntree Gully North Primary School,Primary,Ferntree Gully,http://ferntree.vic.edu.au/,2.8
+"Willett Avenue, Oak Park VIC 3046",03 9306 9182,Oak Park Primary School,Primary,Oak Park,https://teamkids.com.au/venues/oak-park-primary-oshc/,4.6
+"117-125 Cleeland Street, Dandenong VIC 3175",03 9794 7899,Dandenong North Primary School,Primary,Dandenong,http://www.dandenongnorthps.vic.edu.au/,3.9
+"495 Princes Hwy, Noble Park VIC 3174",03 9546 9210,Harrisfield Primary School,Primary,Noble Park,http://harrisfield.ps.vic.edu.au/,4.2
+"Kent Road, Pascoe Vale VIC 3044",03 9354 3343,Pascoe Vale North Primary School,Primary,Pascoe Vale,http://www.pvnps.vic.edu.au/,4.2
+"28 Dorothy Avenue, Belmont VIC 3216",03 5243 1613,Oberon Primary School,Primary,Belmont,http://www.oberonps.vic.edu.au/,3.2
+"Cnr Elizabeth & King Streets, Moe VIC 3825",03 5127 2607,Moe Primary School,Primary,Moe,http://www.aspsmoe.vic.edu.au/,4
+"7-17 Station Avenue, St Albans VIC 3021",03 9366 2071,St Albans East Primary School,Primary,St Albans,http://www.saeps.vic.edu.au/,4.8
+"Silver Street, Cheltenham VIC 3192",03 9583 5746,Cheltenham East Primary School,Primary,Cheltenham,http://www.cheltenhameast.vic.edu.au/,3.8
+"87 - 91 Grand Boulevard, Craigieburn VIC 3064",03 9308 1228,Craigieburn Primary School,Primary,Craigieburn,http://www.craigieburnps.vic.edu.au/,3.1
+"Towerhill Road, Frankston VIC 3199",03 9783 8777,Overport Primary School,Primary,Frankston,http://www.overport-ps.vic.edu.au/,3.8
+"32 St Leonards Ave, Yarraville VIC 3013",03 9314 7054,Wembley Primary School,Primary,Yarraville,http://www.wembleyps.vic.edu.au/,4.3
+"959 Heatherton Road, Springvale VIC 3171",03 9546 7562,Heatherhill Primary School,Primary,Springvale,http://www.heatherhillps.vic.edu.au/,4.7
+"Wood Street, Beaumaris VIC 3193",03 9589 5449,Beaumaris North Primary School,Primary,Beaumaris,http://www.beaumarisnorthps.vic.edu.au/,3.5
+"27 Liege Avenue, Noble Park VIC 3174",03 9792 4406,Yarraman Oaks Primary School,Primary,Noble Park,http://www.yarramanoaksps.vic.edu.au/,4.4
+"Mt Pleasant Road, Nunawading VIC 3131",03 9878 1730,Mount Pleasant Road Nunawading Primary School,Primary,Nunawading,http://www.mtpleasantroadps.vic.edu.au/,4.2
+"York Street, Glenroy VIC 3046",03 9306 8955,Glenroy West Primary School,Primary,Glenroy,http://www.glenroywestps.vic.edu.au/,4.4
+"52 Kirkham Road, Dandenong VIC 3175",03 9792 3726,Dandenong South Primary School,Primary,Dandenong,http://www.dandenong-south-ps.vic.edu.au/,4
+"George Street, St Albans VIC 3021",03 9366 2029,St Albans North Primary School,Primary,St Albans,http://www.stalbansnth.vic.edu.au/,2.5
+"Clarendon St, Avondale Heights VIC 3034",03 9318 1755,Avondale Primary School,Primary,Avondale Heights,http://www.avondaleps.vic.edu.au/,4.2
+"10 Kalmia Street, Frankston VIC 3199",03 9783 4988,Frankston Heights Primary School,Primary,Frankston,http://www.frankstonhts-ps.vic.edu.au/,4
+"82 Cedar Street, Thomastown VIC 3074",03 9465 3032,Thomastown East Primary School,Primary,Thomastown,http://www.thomastown-east-ps.vic.edu.au/,4.4
+"36 Solomon Street, Mount Waverley VIC 3149",03 9807 8120,Mount Waverley Heights Primary School,Primary,Mount Waverley,http://mountwaverleyheightsps.vic.edu.au/,4
+"Robert Street, Parkdale VIC 3195",03 9580 1207,Parktone Primary School,Primary,Parkdale,http://www.parktoneps.vic.edu.au/,4.8
+"631-639 Whitehorse Road, Mitcham VIC 3132",03 9874 4371,Antonio Park Primary School,Primary,Mitcham,http://www.antoniops.vic.edu.au/,4.7
+"Broadmeadows Road, Tullamarine VIC 3043",03 9338 2826,Tullamarine Primary School,Primary,Tullamarine,http://www.tullaps.vic.edu.au/,5
+"12 - 14 Florence Street, Blackburn VIC 3130",03 9894 2855,Blackburn Lake Primary School,Primary,Blackburn,http://www.blps.vic.edu.au/,3.5
+"Janet Street, Blackburn VIC 3130",03 9898 5811,Laburnum Primary School,Primary,Blackburn,http://www.laburnumps.vic.edu.au/,3.2
+"370-380 Springvale Road, Donvale VIC 3111",03 9842 8319,Heatherwood School,Special,Donvale,http://www.heatherwood.vic.edu.au/,3.5
+"27-35 Pinewood Drive, Mount Waverley VIC 3149",03 8847 3200,Pinewood Primary School,Primary,Mount Waverley,http://www.pinewood-ps.vic.edu.au/,4.3
+"62-70 Blair Street, Broadmeadows VIC 3047",03 9302 6060,Broadmeadows Primary School,Primary,Broadmeadows,http://www.bps.vic.edu.au/,4.4
+"111 Anderson Road, Fawkner VIC 3060",03 9359 2028,Moomba Park Primary School,Primary,Fawkner,http://www.moombaparkps.vic.edu.au/,4.1
+"Hinkley Ave, Croydon VIC 3136",03 9870 1566,Ainslie Parklands Primary School,Primary,Croydon,http://ainslieparklandsps.vic.edu.au/,4.3
+"38-54 Jolimont Road, Forest Hill VIC 3131",03 9878 5556,Parkmore Primary School,Primary,Forest Hill,http://www.parkmore.vic.edu.au/,4
+"120 Flinders Avenue, Lara VIC 3212",03 5282 1427,Lara Primary School,Primary,Lara,https://www.laraps.vic.edu.au/,4
+"18 Panfield Avenue, Ringwood VIC 3134",03 9870 2120,Mullum Primary School,Primary,Ringwood,http://www.mullumps.vic.edu.au/,4
+"1 Tucker Street, Cranbourne VIC 3977",03 5996 1142,Cranbourne Park Primary School,Primary,Cranbourne,http://www.cranbournepark.vic.edu.au/,4
+"Mine Street, Greensborough VIC 3088",03 9435 4181,Greenhills Primary School,Primary,Greensborough,http://www.greenhillsps.vic.edu.au/,4.4
+"16 Grove Street, Eltham VIC 3095",03 9439 9793,Eltham East Primary School,Primary,Eltham,http://www.elthameastps.vic.edu.au/,2.3
+"30 Belvedere Road, Seaford VIC 3198",03 9786 3205,Belvedere Park Primary School,Primary,Seaford,http://belvedereparkps.vic.edu.au/,3.5
+"22-30 Essex Road, Mount Waverley VIC 3149",03 9807 4944,Essex Heights Primary School,Primary,Mount Waverley,http://www.essexheightsps.vic.edu.au/,3.3
+"Adele Avenue, Ferntree Gully VIC 3156",03 9758 2811,Mountain Gate Primary School,Primary,Ferntree Gully,http://mountaingateps.vic.edu.au/,4.1
+"Manuka Drive, Ferntree Gully VIC 3156",03 9758 3007,Fairhills Primary School,Primary,Ferntree Gully,http://www.fairhillshs.vic.edu.au/,3.2
+"25 Tormore Road, Boronia VIC 3155",03 9762 2510,Boronia West Primary School,Primary,Boronia,http://www.boroniawestps.vic.edu.au/,3.9
+"208 Hilton St, Glenroy VIC 3046",03 9304 2263,Glenroy Specialist School,Special,Glenroy,http://www.glenroyss.vic.edu.au/,5
+"18 - 20 Ruskin Ave, Croydon VIC 3136",03 9723 3886,Ruskin Park Primary School,Primary,Croydon,http://www.ruskinparkps.vic.edu.au/,4.3
+"1430 Heatherton Road, Dandenong VIC 3175",03 9791 8900,Emerson School,Special,Dandenong,http://www.emersonsc.vic.edu.au/,3.7
+"Mallum Avenue, Frankston VIC 3199",03 9789 0514,Karingal Primary School,Primary,Frankston,http://www.karingalps.vic.edu.au/,3
+"Shepherd Road, Glen Waverley VIC 3150",03 9560 0471,Mount View Primary School,Primary,Glen Waverley,http://www.mountviewps.vic.edu.au/,4.1
+"14 Montgomery Avenue, Mount Waverley VIC 3149",03 9802 5277,Syndal South Primary School,Primary,Mount Waverley,http://www.syndalsp.vic.edu.au/,4.4
+"64 Buena Vista Drive, Montmorency VIC 3094",03 9439 6201,Montmorency South Primary School,Primary,Montmorency,http://montysouth.vic.edu.au/,4.7
+"61 Henry Street, Greensborough VIC 3088",03 9435 4617,Watsonia Heights Primary School,Primary,Greensborough,http://www.watsoniaheightsps.vic.edu.au/,4.4
+"Cnr Forest & Hancock Streets, Wendouree VIC 3355",03 5339 2110,Forest Street Primary School,Primary,Wendouree,http://foreststreetps.com/,4.4
+"Balmoral Avenue, Bundoora VIC 3083",03 9467 2601,Bundoora Primary School,Primary,Bundoora,http://www.bundooraps.vic.edu.au/,3.9
+"Lister Street, St Albans VIC 3021",03 9366 1356,University Park Primary School,Primary,St Albans,http://universityparkps.vic.edu.au,4.4
+"Norwich Street, St Albans VIC 3021",03 9366 3127,St Albans Heights Primary School,Primary,St Albans,http://www.sahps.vic.edu.au/,3.8
+"15- 41 Koroit Avenue, Broadmeadows VIC 3047",03 9309 3477,Hume Valley School,Special,Broadmeadows,http://www.humevalley.vic.edu.au/,4.3
+"Broome Avenue, Mentone VIC 3194",03 9583 4935,Mentone Park Primary School,Primary,Mentone,http://www.mentonepark.vic.edu.au/,5
+"Elata Street, Donvale VIC 3111",03 9842 3373,Donvale Primary School,Primary,Donvale,http://donvaleps.vic.edu.au/,3.9
+"Landscape Drive, Boronia VIC 3155",03 9729 2614,Boronia Heights Primary School,Primary,Boronia,http://www.boroniahtsps.vic.edu.au/,3.6
+"7 Allen Street, Glen Waverley VIC 3150",03 9561 1966,Glenallen School,Special,Glen Waverley,http://www.glenallen-sch.vic.edu.au/,4
+"Enfield Drive, Bayswater VIC 3153",03 9729 2862,Bayswater South Primary School,Primary,Bayswater,http://www.baysouthps.vic.edu.au/,5
+"81 Hallifax Street, Seaford VIC 3198",03 9786 5674,Seaford North Primary School,Primary,Seaford,http://www.seaford-northps.vic.edu.au/,5
+"39 Cleveland Street, Thomastown VIC 3074",03 9465 4350,Lalor East Primary School,Primary,Thomastown,http://www.laloreastps.vic.edu.au/,4.1
+"40-46 Mulhall Drive, St Albans VIC 3021",03 9366 4322,Jackson School,Special,St Albans,http://www.jacksons.vic.edu.au/,4.8
+"Cnr Palmerston & Drummond Sts, Carlton VIC 3053",03 9347 6022,Carlton Primary School,Primary,Carlton,http://carltonprimaryschool.vic.edu.au/,5
+"Tintinara Crescent, Belmont VIC 3216",03 5243 2997,Oberon South Primary School,Primary,Belmont,http://www.oberonsouthps.vic.edu.au/,1.3
+"33 Ashton Street, Glen Waverley VIC 3150",03 9887 8000,Highvale Primary School,Primary,Glen Waverley,http://www.highvaleps.vic.edu.au/,4.5
+"89-105 Carlton Road, Dandenong VIC 3175",03 9795 2007,Wooranna Park Primary School,Primary,Dandenong,http://woorannaparkps.vic.edu.au/,5
+"Heyington Avenue, Doncaster VIC 3108",03 9848 4996,Birralee Primary School,Primary,Doncaster,http://www.birralee.vic.edu.au/,4.3
+"98-112 Main Street, Thomastown VIC 3074",03 9465 4317,Thomastown West Primary School,Primary,Thomastown,http://www.thomwestps.vic.edu.au/,4.2
+"Paratea Drive, Rowville VIC 3178",03 9764 1955,Rowville Primary School,Primary,Rowville,http://www.rowvilleps.vic.edu.au/,4.3
+"Langridge Street, Hoppers Crossing VIC 3029",03 9749 1227,Mossfiel Primary School,Primary,Hoppers Crossing,http://www.mossfielps.vic.edu.au/,3.7
+"Belar Avenue, Frankston VIC 3199",03 9789 5614,Ballam Park Primary School,Primary,Frankston,http://ballamparkps.vic.edu.au,3.9
+"479-491 Elizabeth Drive, Sunbury VIC 3429",03 9740 8666,Sunbury West Primary School,Primary,Sunbury,http://www.sunburywestps.vic.edu.au/,3
+"15 - 25 South Circular Road, Gladstone Park VIC 3043",03 9338 2774,Gladstone Park Primary School,Primary,Gladstone Park,http://www.gladstoneparkps.vic.edu.au/,4.3
+"55 Nottingham Street, Glen Waverley VIC 3150",03 9803 1330,Glendal Primary School,Primary,Glen Waverley,http://www.glendalps.vic.edu.au/,3.9
+"Wattletree Road, Ferntree Gully VIC 3156",03 9758 4322,Wattle View Primary School,Primary,Ferntree Gully,http://www.wvps.vic.edu.au/,4.3
+"Suite 1.4, Level 1, Parkville VIC 3052",03 93459700,Royal Childrens Hospital Education Institute,Special,Parkville,http://www.rch.org.au/education,3.3
+"411 Grimshaw Street, Bundoora VIC 3083",03 9467 3972,Concord School,Special,Bundoora,http://www.concordsch.vic.edu.au/,3.4
+"Quinn Street, Deer Park VIC 3023",03 9363 3519,Deer Park West Primary School,Primary,Deer Park,http://www.dpwps.vic.edu.au/,4.4
+"2 Derna Crescent, Lalor VIC 3075",03 9465 4922,Lalor North Primary School,Primary,Lalor,http://www.lalornorthps.vic.edu.au/,3.8
+"4 Westmelton Drive, Melton VIC 3337",03 9743 5818,Melton West Primary School,Primary,Melton,http://www.meltonwestps.vic.edu.au/,3.4
+"Phyllis Street, Bayswater VIC 3153",03 9729 3394,Bayswater West Primary School,Primary,Bayswater,https://baywestps.vic.edu.au/,4.4
+"Robertson Drive, Mornington VIC 3931",03 5975 4011,Mornington Park Primary School,Primary,Mornington,http://morningtonparkps.vic.edu.au/,4
+"25 Lennox Street, Richmond VIC 3121",03 9427 8736,Richmond West Primary School,Primary,Richmond,http://www.richmondwestps.vic.edu.au/,4.4
+"52 Kings Road, St Albans VIC 3021",03 9366 1381,Stevensville Primary School,Primary,St Albans,http://www.steveps.vic.edu.au/,4.2
+"33-57 Warringa Crescent, Hoppers Crossing VIC 3029",03 9749 2770,Woodville Primary School,Primary,Hoppers Crossing,http://www.woodvilleps.vic.edu.au/,4.3
+"Havana Crescent, Frankston VIC 3199",03 9789 3288,Karingal Heights Primary School,Primary,Frankston,http://www.karingalheightsps.vic.edu.au/,2.8
+"38-64 Wallarano Drive, Noble Park VIC 3174",03 9798 1890,Wallarano Primary School,Primary,Noble Park,http://www.wallarano-ps.vic.edu.au/,3.5
+"Bowen Road, Lilydale VIC 3140",03 9735 4670,Lilydale West Primary School,Primary,Lilydale,https://www.victoriaroadps.vic.edu.au/,3.1
+"100 Victoria Street, Flemington VIC 3031",03 9376 1570,Debney Meadows Primary School,Primary,Flemington,https://www.debneymeadowsps.vic.edu.au/,4
+"Prospect Hill Road, Narre Warren VIC 3805",03 9703 1187,Fountain Gate Primary School,Primary,Narre Warren,http://www.fountaingateps.vic.edu.au/,3.9
+"85 Heyers Road, Grovedale VIC 3216",03 5241 4774,Grovedale West Primary School,Primary,Grovedale,http://www.gwps.vic.edu.au/,3.7
+"47 Staff Street, Moe VIC 3825",03 5127 1744,Baringa Special School,Special,Moe,http://www.baringass.vic.edu.au/,5
+"14 Naranga Crescent, Frankston VIC 3199",03 9788 2222,Naranga Special School,Special,Frankston,http://www.naranga.vic.edu.au/,4
+"Greenaway Drive, Ferntree Gully VIC 3156",03 9763 8055,Kent Park Primary School,Primary,Ferntree Gully,http://www.kentparkps.vic.edu.au,4.1
+"18-36 Mawson Avenue, Deer Park VIC 3023",03 9363 4600,Deer Park North Primary School,Primary,Deer Park,http://www.deerparknthps.vic.edu.au/,3.6
+"232-246 Greaves St North, Werribee VIC 3030",03 9741 6300,Manorvale Primary School,Primary,Werribee,http://www.manorvaleps.vic.edu.au/,3.2
+"195 - 227 Carrick Drive, Gladstone Park VIC 3043",03 9338 6083,Gladstone Views Primary School,Primary,Gladstone Park,http://www.gvps.vic.edu.au/,2.3
+"Dimboola Road, Broadmeadows VIC 3047",03 9309 4066,Broadmeadows Valley Primary School,Primary,Broadmeadows,http://www.bvps.vic.edu.au/,3.6
+"49-61 Pleasant Road, Bulleen VIC 3105",03 9850 7122,Bulleen Heights School,Special,Bulleen,http://www.bulleenheights.vic.edu.au/,3.5
+"25 Farm Road, Cheltenham VIC 3192",03 9584 5805,Kingston Heath Primary School,Primary,Cheltenham,https://khps.vic.edu.au/,4
+"1 Tasma Street, Ascot Vale VIC 3032",03 9370 8906,Ascot Vale Special School,Special,Ascot Vale,http://www.ascotvaless.vic.edu.au/,4
+"Galahad Crescent, Glen Waverley VIC 3150",03 9803 5344,Camelot Rise Primary School,Primary,Glen Waverley,https://www.camelotrise.vic.edu.au/,4.2
+"2A Laurel Street, St Albans VIC 3021",03 9364 6144,St Albans Meadows Primary School,Primary,St Albans,http://www.samps.vic.edu.au/,4.3
+"39-49 Kalinda Road, Ringwood VIC 3134",03 9876 3289,Kalinda Primary School,Primary,Ringwood,http://www.kalinda.vic.edu.au/,4.9
+"399-409 Church Road, Templestowe VIC 3106",03 9846 2700,Templestowe Park Primary School,Primary,Templestowe,http://www.templestoweparkps.vic.edu.au/,3.4
+"63 Fordholm Road, Hampton Park VIC 3976",03 9799 1216,River Gum Primary School,Primary,Hampton Park,http://www.rivergumps.vic.edu.au/,5
+"Amesbury Avenue, Wantirna VIC 3152",03 9801 3614,Regency Park Primary School,Primary,Wantirna,http://www.regency-park-ps.vic.edu.au/,4.7
+"1-11 Rescorla Avenue, Croydon VIC 3136",03 9725 5038,Dorset Primary School,Primary,Croydon,http://dorsetps.vic.edu.au/,5
+"13-21 Diplomat Drive, Thomastown VIC 3074",03 9466 1322,Thomastown Meadows Primary School,Primary,Thomastown,http://thomastownmeadows.vic.edu.au,4.3
+"Franciscan Avenue, Frankston VIC 3199",03 9789 0077,Kingsley Park Primary School,Primary,Frankston,http://www.kingsleypark.vic.edu.au/,3.3
+"29-59 James Cook Drive, Endeavour Hills VIC 3802",03 9700 2601,James Cook Primary School,Primary,Endeavour Hills,https://jamescookps.vic.edu.au/,4.1
+"23 Mill Street, Aspendale VIC 3195",03 9580 0384,Yarrabah School,Special,Aspendale,http://www.yarrabah.sch.vic.edu.au/,4
+"Sassafras Drive, Frankston VIC 3199",03 9789 6844,Frankston Special Developmental School,Special,Frankston,http://www.frankston-sds.vic.edu.au/,5
+"Cnr Nott & Pool Streets, Port Melbourne VIC 3207",03 9646 0855,Port Phillip Specialist School,Special,Port Melbourne,http://www.portphillip.vic.edu.au/,5
+"Blamey Avenue, Mill Park VIC 3082",03 9404 3337,Mill Park Primary School,Primary,Mill Park,http://www.millparkps.vic.edu.au/,4.6
+"14-24 Brentwick Drive, Greensborough VIC 3088",03 9432 1022,Diamond Valley Special Developmental School,Special,Greensborough,http://www.diamondvalleysds.vic.edu.au/,5
+"159-211 Coburns Road, Melton VIC 3337",03 9743 4966,Melton Specialist School,Special,Melton,http://www.meltonss.vic.edu.au/,3.6
+"13-15 Sandown Road, Springvale VIC 3171",03 9546 7666,Springvale Park Special Developmental School,Special,Springvale,http://springvaleparksds.vic.edu.au/,4.3
+"81 Warringa Crescent, Hoppers Crossing VIC 3029",03 9749 5774,Warringa Park School,Special,Hoppers Crossing,http://www.warringapark.vic.edu.au/,3.4
+"Tuckers Road, Templestowe VIC 3106",03 9842 8182,Serpell Primary School,Primary,Templestowe,http://www.serpellps.vic.edu.au/,3
+"Mcewen Drive, Sunbury VIC 3429",03 9744 4566,Kismet Park Primary School,Primary,Sunbury,http://www.kismetparkps.vic.edu.au/,4.3
+"31-43 Civic Drive, Greensborough VIC 3088",03 9433 1300,Apollo Parkways Primary School,Primary,Greensborough,http://www.apolloparkps.vic.edu.au/,4
+"10 Corang Avenue, Grovedale VIC 3216",03 5243 0820,Mandama Primary School,Primary,Grovedale,http://www.mandama.vic.edu.au/,3.7
+"110 Duff Street, Cranbourne VIC 3977",03 5996 2878,Cranbourne West Primary School,Primary,Cranbourne,http://www.cranbournewestps.vic.edu.au/,3.6
+"141 East Road, Seaford VIC 3198",03 9786 5197,Seaford Park Primary School,Primary,Seaford,http://www.seafordpark.vic.edu.au/page/60/Contact,3.8
+"Crestdale Road, Wantirna VIC 3152",03 9801 7450,Templeton Primary School,Primary,Wantirna,http://www.templetonps.vic.edu.au/,4.8
+"Charter Road East, Sunbury VIC 3429",03 9744 3377,Sunbury Heights Primary School,Primary,Sunbury,http://www.sunburyheightsps.vic.edu.au/,4.6
+"110-120 Greenhalghs Road, Delacombe VIC 3356",03 5335 6103,Delacombe Primary School,Primary,Delacombe,http://www.delacombeps.vic.edu.au/,4.7
+"Stalwart Avenue, Hastings VIC 3915",03 5979 2654,Wallaroo Primary School,Primary,Hastings,http://www.wallaroops.vic.edu.au/,4.3
+"71 Scotsburn Way, Endeavour Hills VIC 3802",03 9709 7777,Mossgiel Park Primary School,Primary,Endeavour Hills,http://www.mossgielparkps.vic.edu.au/,4.8
+"139-145 Mansfield Street, Berwick VIC 3806",03 9707 1766,Berwick Lodge Primary School,Primary,Berwick,http://www.berwicklodgeps.vic.edu.au,4.3
+"127-143 Circular Drive, Sunbury VIC 3429",03 9744 4879,Sunbury And Macedon Ranges Specialist School,Special,Sunbury,http://wordpress.smrss.vic.edu.au/,5
+"16-18 Gertz Ave, Reservoir VIC 3073",03 9462 5990,Northern School For Autism,Special,Reservoir,http://www.northernautism.vic.edu.au/,4.2
+"25 Old White Hill Road, Dromana VIC 3936",03 5987 2649,Peninsula Specialist College,Special,Dromana,http://www.peninsulaspecialist.vic.edu.au/,4
+"Primrose Hill Close, Endeavour Hills VIC 3802",03 9700 4455,Chalcot Lodge Primary School,Primary,Endeavour Hills,http://www.chalcotps.vic.edu.au/,4.4
+"14-36 Lesdon Avenue, Cranbourne VIC 3977",03 5996 8900,Rangebank Primary School,Primary,Cranbourne,http://rangebankps.vic.edu.au/,3.3
+"1-21 David Collins Drive, Endeavour Hills VIC 3802",03 9700 4488,Southern Cross Primary School,Primary,Endeavour Hills,http://www.sthcrossps.vic.edu.au/,4.5
+"128b Gillespie Road, St Albans VIC 3021",03 9367 6555,Kings Park Primary School,Primary,St Albans,http://www.kpps.vic.edu.au/,4.6
+"19-21 Victoria Road, Narre Warren VIC 3805",03 9704 4800,Dandenong Valley Special Developmental School,Special,Narre Warren,http://www.dandyvalley.vic.edu.au/,4.5
+"40 Robertson Drive, Mornington VIC 3931",03 5975 6111,Mornington Special Developmental School,Special,Mornington,http://morningtonsds.vic.edu.au/,5
+"102 Hothlyn Drive, Craigieburn VIC 3064",03 9308 3133,Craigieburn South Primary School,Primary,Craigieburn,http://craigsth.vic.edu.au/,3.7
+"Cuthbert Drive, Mill Park VIC 3082",03 9404 1362,Findon Primary School,Primary,Mill Park,http://www.findonps.vic.edu.au/,3.5
+"2-6 Gullane Drive, Sunbury VIC 3429",03 9744 7137,Goonawarra Primary School,Primary,Sunbury,http://www.goonawarra.vic.edu.au/,5
+"120 Bellbridge Drive, Hoppers Crossing VIC 3029",03 9749 6161,Bellbridge Primary School,Primary,Hoppers Crossing,http://www.bellbridgeps.vic.edu.au/,4.1
+"37-45 Mowbray Crescent, Melton VIC 3337",03 9743 0633,Kurunjang Primary School,Primary,Melton,http://www.kurunjangps.vic.edu.au/,3.3
+"Cnr Bishop & Gaffney Streets, Coburg VIC 3058",03 9354 4366,Coburg Special Developmental School,Special,Coburg,http://www.coburgsds.vic.edu.au/,5
+"29 - 35 Dimboola Rd, Broadmeadows VIC 3047",03 9302 1244,Broadmeadows Special Developmental School,Special,Broadmeadows,http://www.broadmeadowssds.vic.edu.au/,3.9
+"85 Brighton Street, Richmond VIC 3121",03 9428 1909,Richmond Primary School,Primary,Richmond,https://richmondps.vic.edu.au/,3.9
+"68-76 Davison Street, Richmond VIC 3121",03 9428 3286,Yarra Primary School,Primary,Richmond,http://yarraps.vic.edu.au/,3.2
+"117 Blackwood Street, Yarraville VIC 3013",03 9314 4919,Yarraville Special Developmental School,Special,Yarraville,http://www.yarravillesds.vic.edu.au/,4
+"Wentworth Avenue, Rowville VIC 3178",03 9752 8555,Park Ridge Primary School,Primary,Rowville,http://www.parkridge-ps.vic.edu.au/,4.4
+"11 Duncan Road, Lalor VIC 3075",03 9464 3011,Merriang Special Developmental School,Special,Lalor,http://www.merriangsds.vic.edu.au/,2.3
+"22-48 Meadow Glen Drive, Epping VIC 3076",03 9408 6222,Meadowglen Primary School,Primary,Epping,http://www.meadowglenps.vic.edu.au/,4.1
+"55 Burke Street, Warragul VIC 3820",03 5623 1385,Warragul & District Specialist School,Special,Warragul,Warragul & District Specialist School,4
+"145 Coral Drive, Hampton Park VIC 3976",03 9702 8398,Coral Park Primary School,Primary,Hampton Park,http://www.coralparkps.vic.edu.au/,3.9
+"Maramba Drive, Narre Warren VIC 3805",03 9796 7150,Maramba Primary School,Primary,Narre Warren,http://www.maramba-ps.vic.edu.au/,3.6
+"67-77 Thomas Mitchell Drive, Endeavour Hills VIC 3802",03 9706 2254,Thomas Mitchell Primary School,Primary,Endeavour Hills,http://www.tmps.vic.edu.au/contact-us/,4.5
+"Karoo Road, Rowville VIC 3178",03 9759 6222,Karoo Primary School,Primary,Rowville,http://www.karoops.vic.edu.au/,4.6
+"26-32 Lockwood Road, Kangaroo Flat VIC 3555",03 5447 3267,Bendigo Special Developmental School,Special,Kangaroo Flat,http://www.bendigosds.vic.edu.au/,5
+"35 Gwendoline Drive, Berwick VIC 3806",03 8786 9988,Berwick Fields Primary School,Primary,Berwick,http://www.berwickfieldsps.vic.edu.au/,4.7
+"Bemersyde Drive, Berwick VIC 3806",03 9702 2022,Brentwood Park Primary School,Primary,Berwick,http://www.brentwoodparkps.vic.edu.au/,3.9
+"56 Dorset Road, Ferntree Gully VIC 3156",03 9758 3772,Eastern Ranges School,Special,Ferntree Gully,http://easternrangesschool.vic.edu.au/,5
+"Carruthers Drive, Hoppers Crossing VIC 3029",03 9748 9011,Cambridge Primary School,Primary,Hoppers Crossing,http://www.cambridgeps.vic.edu.au/,4.1
+"Rowellyn Avenue, Carrum Downs VIC 3201",03 9782 0953,Rowellyn Park Primary School,Primary,Carrum Downs,http://www.rowellynpark.vic.edu.au/,4.6
+"Sycamore Street, Hoppers Crossing VIC 3029",03 9748 8688,Baden Powell P-9 College,Pri/Sec,Hoppers Crossing,http://www.bpc.vic.edu.au/,2.6
+"Pindari Avenue, Mill Park VIC 3082",03 9436 8866,Mill Park Heights Primary School,Primary,Mill Park,http://www.millparkhtsps.vic.edu.au/,3.9
+"Dorchester Street, Craigieburn VIC 3064",03 9305 6639,Willmott Park Primary School,Primary,Craigieburn,http://www.willmottparkps.vic.edu.au/,4.3
+"85 Walls Road, Werribee VIC 3030",03 9741 0200,Thomas Chirnside Primary School,Primary,Werribee,http://www.thomaschirnsideps.vic.edu.au/,2.8
+"Buckingham Drive, Rowville VIC 3178",03 9764 5533,Heany Park Primary School,Primary,Rowville,http://heanyparkps.vic.edu.au/,2.2
+"Kilberry Boulevard, Hampton Park VIC 3976",03 9702 8688,Kilberry Valley Primary School,Primary,Hampton Park,http://www.kilberryps.vic.edu.au/,4.5
+"61 Phillip Drive, Sunbury VIC 3429",03 9744 6432,Killara Primary School,Primary,Sunbury,http://www.killaraps.vic.edu.au/,2.3
+"31-65 John Dory Drive, Ocean Grove VIC 3226",03 5256 1411,Surfside Primary School,Primary,Ocean Grove,http://www.surfsideps.vic.edu.au/,4.4
+"79 - 93 Kurrajong Road, Narre Warren VIC 3805",03 9705 6055,Oatlands Primary School,Primary,Narre Warren,http://www.oatlandsps.vic.edu.au/,4.4
+"Thames Boulevard, Werribee VIC 3030",03 9749 8233,Westgrove Primary School,Primary,Werribee,http://www.westgrps.vic.edu.au/,3
+"76 - 94 Laura Avenue, Belmont VIC 3216",03 5243 1813,Barwon Valley School,Special,Belmont,http://www.barwonss.vic.edu.au/,5
+"15 Kennedy Road, Pakenham VIC 3810",03 5941 4436,Pakenham Hills Primary School,Primary,Pakenham,http://www.pakenhamhillsps.vic.edu.au/,3.4
+"22 Wells Road, Seaford VIC 3198",03 9786 6066,Kananook Primary School,Primary,Seaford,http://www.kps.vic.edu.au/,3
+"77 Argus Street, Cheltenham VIC 3192",03 9583 8342,Le Page Primary School,Primary,Cheltenham,http://www.lepage.vic.edu.au/,4.4
+"774 High Street Road, Glen Waverley VIC 3150",03 9802 9938,Glen Waverley Primary School,Primary,Glen Waverley,http://www.glenps.vic.edu.au/,4.4
+"Albany Drive, Mulgrave VIC 3170",03 9547 1146,Albany Rise Primary School,Primary,Mulgrave,http://www.albanyrise-ps.vic.edu.au/,3.3
+"39 Darwin Road, Boronia VIC 3155",03 9801 3289,Knox Central Primary School,Primary,Boronia,http://www.knoxcentral.vic.edu.au/,3.7
+"Marcus Avenue, Mount Waverley VIC 3149",03 9802 3168,Mount Waverley North Primary School,Primary,Mount Waverley,http://mtwavnth.vic.edu.au/,4.3
+"27 Churinga Avenue, Mitcham VIC 3132",03 9874 6381,Rangeview Primary School,Primary,Mitcham,http://www.rangeview.vic.edu.au/,4
+"43-81 Browns Road, Noble Park VIC 3174",03 9795 5848,Carwatha College P-12,Pri/Sec,Noble Park,http://www.carwatha.vic.edu.au/,2.3
+"Whites Lane, Glen Waverley VIC 3150",03 9560 6371,Glen Waverley South Primary School,Primary,Glen Waverley,http://www.gwsps.vic.edu.au/,4.2
+"21-33 Mcpherson Boulevard, Roxburgh Park VIC 3064",03 9305 1688,Roxburgh Homestead Primary School,Primary,Roxburgh Park,http://www.roxhomesteadps.vic.edu.au/,5
+"Morell Street, Glenroy VIC 3046",03 9306 7900,Belle Vue Park Primary School,Primary,Glenroy,http://www.bellevueparkps.vic.edu.au/,4.2
+"159-197 Parkhill Drive, Berwick VIC 3806",03 9704 2744,Timbarra P-9 College,Pri/Sec,Berwick,http://www.timbarrap9.vic.edu.au/,3.1
+"7-21 Almands Avenue, Roxburgh Park VIC 3064",03 9303 9335,Roxburgh Park Primary School,Primary,Roxburgh Park,http://www.roxburghparkps.vic.edu.au/,4.1
+"261 Racecourse Road, Mornington VIC 3931",03 5973 9100,Benton Junior College,Primary,Mornington,http://www.benton.vic.edu.au/,4
+"Cnr Lockwood Dr & Bluebird Way, Roxburgh Park VIC 3064",03 9305 4334,Roxburgh Rise Primary School,Primary,Roxburgh Park,http://www.roxburghrise-ps.vic.edu.au/,4.3
+"365 Harvest Home Road, Epping VIC 3076",03 8468 9000,Harvest Home Primary School,Primary,Epping,http://www.harvesthomeps.vic.edu.au/,4.2
+"72 Viewgrand Drive, Berwick VIC 3806",03 9707 7799,Berwick Chase Primary School,Primary,Berwick,http://berwickchaseps.vic.edu.au/,3.9
+"23 Shearwater Drive, Pakenham VIC 3810",03 5940 9532,Pakenham Lakeside Primary School,Primary,Pakenham,http://www.plps.vic.edu.au/,3.9
+"5 Livingstone Boulevard, Pakenham VIC 3810",03 5945 7400,Pakenham Springs Primary School,Primary,Pakenham,http://www.pakenhamsprings.vic.edu.au/,3.3
+"15 Silky Oak Drive, Cranbourne VIC 3977",03 5991 3600,Cranbourne Carlisle Primary School,Primary,Cranbourne,http://www.cranbournecarlisleps.vic.edu.au/,2.3
+"20 Mansfield Street, Epping VIC 3076",03 8401 3791,Epping Views Primary School,Primary,Epping,http://www.eppingviewsps.vic.edu.au/,3
+"39 Violet Grove, Wendouree VIC 3355",03 5339 5555,Yuille Park P-8 Community College,Pri/Sec,Wendouree,http://www.yuilleparkcc.vic.edu.au/,2.8
+"51-81 Grevillea Street, Craigieburn VIC 3064",03 8338 3700,Aitken Creek Primary School,Primary,Craigieburn,http://www.aitkencreekps.vic.edu.au/,4.5
+"73-91 Hickford Street, Reservoir VIC 3073",03 9460 6995,Reservoir Views Primary School,Primary,Reservoir,http://www.reservoirviewsps.vic.edu.au/,2.1
+"41 Gerbert Street, Broadmeadows VIC 3047",03 9309 2573,Meadows Primary School,Primary,Broadmeadows,http://www.meadowsps.vic.edu.au/,4
+"134 Kingsway Drive, Lalor VIC 3075",03 9465 1351,Lalor Gardens Primary School,Primary,Lalor,http://www.lalorgardensps.vic.edu.au/,3.2
+"32-52 Wareham Street, Springvale VIC 3171",03 9546 3799,Springvale Rise Primary School,Primary,Springvale,http://springvaleriseps.vic.edu.au/,3.8
+"24 Erica Street, Springvale VIC 3171",03 9546 6402,Spring Parks Primary School,Primary,Springvale,http://springparksps.vic.edu.au/,3.5
+"Kookaburra Avenue, Werribee VIC 3030",03 9741 4549,Wyndham Park Primary School,Primary,Werribee,http://www.wyndhamparkps.vic.edu.au/,4
+"10 Logan Street, Glenroy VIC 3046",03 9306 4144,Glenroy Central Primary School,Primary,Glenroy,http://www.glenroycentralps.vic.edu.au/,4
+"60 Merrilands Road, Reservoir VIC 3073",03 9460 1668,William Ruthven Primary School,Primary,Reservoir,http://www.williamruthvenps.vic.edu.au/,4.5
+"202-226 Newbury Boulevard, Craigieburn VIC 3064",03 8691 6900,Newbury Primary School,Primary,Craigieburn,http://newburyps.vic.edu.au/,4.5
+"805 High Street, Epping VIC 3076",03 9408 6362,Epping Primary School,Primary,Epping,http://www.eppingps.vic.edu.au/,3.4
+"25 Stretton Drive, Torquay VIC 3228",03 5218 5600,Torquay Coast Primary School,Primary,Torquay,http://www.torquaycoastps.vic.edu.au/,3
+"141 Henry Road, Pakenham VIC 3810",03 5908 9500,John Henry Primary School,Primary,Pakenham,http://jhps.vic.edu.au/,4.9
+"Cnr Cromwell St/McCutcheon Way, Collingwood VIC 3066",03 9417 6681,Collingwood College,Pri/Sec,Collingwood,https://www.collingwood.vic.edu.au/,2.9
+"2 Rundell Way, Pakenham VIC 3810",03 5941 1511,Pakenham Consolidated School,Primary,Pakenham,http://www.pakconps.vic.edu.au/,3.6
+"315 Clarendon Street, Thornbury VIC 3071",03 8480 0000,Distance Education Centre Victoria,Pri/Sec,Thornbury,http://www.distance.vic.edu.au/,3.3
+"315 Clarendon Street, Thornbury VIC 3071",03 9474 0500,Victorian School Of Languages,Pri/Sec,Thornbury,https://www.vsl.vic.edu.au/,4
+"246 Clayton Road, Clayton VIC 3168",03 8572 3100,Monash Children's Hospital School,Special,Clayton,https://monashchildrenshospital.org/school/,4
+"950 South Gippsland Highway, Cranbourne VIC 3977",03 5996 0144,Lyndhurst Secondary College,Secondary,Cranbourne,http://lyndhurst.vic.edu.au/,2.9
+"110 Harrisons Road, Dromana VIC 3936",03 5987 2805,Dromana Secondary College,Secondary,Dromana,https://www.dsc.vic.edu.au/,4
+"19 Wingarra Drive, Grovedale VIC 3216",03 5245 4545,Grovedale College,Secondary,Grovedale,http://grovedale.vic.edu.au/,2.7
+"57 - 75 Olympic Parade, Kangaroo Flat VIC 3555",03 5447 7722,Crusoe 7-10 Secondary College,Secondary,Kangaroo Flat,http://www.crusoecollege.vic.edu.au/,3
+"35 Duncan Road, Lalor VIC 3075",03 9464 0122,Peter Lalor Secondary College,Secondary,Lalor,http://www.peterlalor.vic.edu.au/,2.6
+"17-19 Nelson Road, Lilydale VIC 3140",03 9735 1133,Lilydale Heights College,Secondary,Lilydale,https://www.lilydaleheights.vic.edu.au/,4.1
+"59 Olympic Avenue, Mount Clear VIC 3353",03 5330 1500,Mount Clear College,Secondary,Mount Clear,http://mountclearcollege.vic.edu.au/,2.3
+"62 Murray Road, Preston VIC 3072",03 9478 1333,Northern College of the Arts and Technology,Secondary,Preston,http://ncat.vic.edu.au/,3.3
+"505 Burwood Road, Hawthorn VIC 3122",03 8862 4400,Swinburne Senior Secondary College,Secondary,Hawthorn,http://www.sssc.vic.edu.au/,4.3
+"101 Shaws Road, Werribee VIC 3030",03 9741 4911,Wyndham Central Secondary College,Secondary,Werribee,https://www.wyndhamcentralsc.vic.edu.au/,3.2
+"55 Laurel Street, Whittlesea VIC 3757",03 9719 1200,Whittlesea Secondary College,Secondary,Whittlesea,http://www.whittleseasc.vic.edu.au/,2.5
+"14 Orchard Road, Bayswater VIC 3153",03 8720 7555,Bayswater Secondary College,Secondary,Bayswater,http://www.bayswatersc.vic.edu.au/,3.6
+"117 - 136 Reserve Road, Beaumaris VIC 3193",3,Beaumaris Secondary College,Secondary,Beaumaris,http://www.beaumarissc.vic.edu.au/,3.4
+"Rotherham Street, Belmont VIC 3216",03 5243 5355,Belmont High School,Secondary,Belmont,http://www.bhs.vic.edu.au/,3.8
+"Manuka Road, Berwick VIC 3806",03 8768 1000,Berwick Secondary College,Secondary,Berwick,http://www.berwickcollege.vic.edu.au/,2.6
+"60 Springfield Road, Blackburn VIC 3130",03 8804 6464,Blackburn High School,Secondary,Blackburn,http://www.blackburnhs.vic.edu.au/,2.7
+"1180 Whitehorse Road, Box Hill VIC 3128",03 9877 1177,Box Hill High School,Secondary,Box Hill,http://www.boxhillhs.vic.edu.au/,4.3
+"65-71 Watsons Road, Glen Waverley VIC 3150",03 8545 0300,Brentwood Secondary College,Secondary,Glen Waverley,http://www.brentwood.vic.edu.au/,3.7
+"Cooper Street, Essendon VIC 3040",03 9331 9999,Buckley Park College,Secondary,Essendon,http://www.buckleyparkco.vic.edu.au/,2.8
+"Prospect Hill Road, Canterbury VIC 3126",03 9836 0555,Camberwell High School,Secondary,Canterbury,http://www.camhigh.vic.edu.au/index.php?lang=en,2.5
+"16 Mangarra Road, Canterbury VIC 3126",03 9830 5099,Canterbury Girls Secondary College,Secondary,Canterbury,http://www.cgsc.vic.edu.au/,4.1
+"73-75 Bernard Street, Cheltenham VIC 3192",03 9555 5955,Cheltenham Secondary College,Secondary,Cheltenham,http://www.cheltsec.vic.edu.au/,2.8
+"Stawell Street, Cranbourne VIC 3977",03 5996 3544,Cranbourne Secondary College,Secondary,Cranbourne,http://www.cranbournesc.vic.edu.au/,3
+"177-181 Mt Dandenong Road, Croydon VIC 3136",03 9724 2900,Croydon Community School,Secondary,Croydon,http://www.croydoncs.vic.edu.au/,4.2
+"167-175 Mt Alexander Road, Flemington VIC 3031",03 9376 1622,Mount Alexander 7-12 College,Secondary,Flemington,http://www.mountalexandercollege.vic.edu.au/,3.9
+"123 Church Road, Doncaster VIC 3108",03 9848 4677,Doncaster Secondary College,Secondary,Doncaster,http://www.doncastersc.vic.edu.au/,3.3
+"30-60 Withers Way, Eltham VIC 3095",03 9430 5111,Eltham High School,Secondary,Eltham,http://www.elthamhs.vic.edu.au/,3.3
+"101 Glenhuntly Road, Elwood VIC 3184",03 9531 9566,Elwood College,Secondary,Elwood,http://elwood.vic.edu.au/,3.1
+"Mcdonalds Road, Epping VIC 3076",03 9401 2599,Epping Secondary College,Secondary,Epping,http://www.eppingsc.vic.edu.au/,3.6
+"298 Barkly Street, Footscray VIC 3011",03 9689 4788,Gilmore College For Girls,Secondary,Footscray,http://www.gilmorecollegeforgirls.vic.edu.au/,2.8
+"97 Foot Street, Frankston VIC 3199",03 9783 7955,Frankston High School,Secondary,Frankston,http://www.fhs.vic.edu.au/,3
+"14 - 36 Taylor Drive, Gladstone Park VIC 3043",03 9933 0500,Gladstone Park Secondary College,Secondary,Gladstone Park,http://www.gladstoneparksc.vic.edu.au/,3
+"53 Balmoral Avenue, Bundoora VIC 3083",03 9467 1511,Bundoora Secondary College,Secondary,Bundoora,http://www.bundoorasc.vic.edu.au/,3.1
+"215 High Street, Hastings VIC 3915",03 5979 1577,Western Port Secondary College,Secondary,Hastings,http://www.westernportsc.vic.edu.au/,3
+"Capital Avenue, Glen Waverley VIC 3150",03 9803 5144,Highvale Secondary College,Secondary,Glen Waverley,http://www.highvalesc.vic.edu.au/,2.7
+"405 Racecourse Rd, Kensington VIC 3031",03 9376 1953,Kensington Community High School,Secondary,Kensington,http://www.kchs.vic.edu.au/,4.7
+"118 David Street, Lalor VIC 3075",03 9463 7300,Lalor Secondary College,Secondary,Lalor,http://www.lalorsc.vic.edu.au/,3.2
+"114 Childs Road, Epping VIC 3076",03 9401 3888,Lalor North Secondary College,Secondary,Epping,http://lalornthsc.vic.edu.au/,3
+"25 Melba Avenue, Lilydale VIC 3140",03 9735 5644,Lilydale High School,Secondary,Lilydale,http://www.lilydalehs.vic.edu.au/,2.4
+"Cnr Gleadell & Highett Street, Richmond VIC 3121",03 9428 4421,Lynall Hall Community School,Secondary,Richmond,http://www.lynallhall.vic.edu.au,4
+"2 Little Ryrie Street, Geelong VIC 3220",03 4243 0500,Matthew Flinders Girls Secondary College,Secondary,Geelong,http://mfgsc.vic.edu.au/,3.3
+"Coburns Road, Melton VIC 3337",03 9743 3322,Melton Secondary College,Secondary,Melton,http://www.meltonsc.vic.edu.au/,3
+"Cnr Balcombe & Charman Rds, Mentone VIC 3194",03 9581 5200,Mentone Girls Secondary College,Secondary,Mentone,http://mgsc.vic.edu.au/,3.3
+"Para Road, Montmorency VIC 3094",03 9422 1500,Montmorency Secondary College,Secondary,Montmorency,http://www.montysc.vic.edu.au/,3.2
+"1 Station Street, Mordialloc VIC 3195",03 9580 1184,Mordialloc College,Secondary,Mordialloc,http://mcsc.vic.edu.au/,3.9
+"9 Lechte Road, Mount Waverley VIC 3149",03 9803 6811,Mount Waverley Secondary College,Secondary,Mount Waverley,http://www.mwsc.vic.edu.au/,2.8
+"Byron Street, Ringwood VIC 3134",03 9871 0400,Norwood Secondary College,Secondary,Ringwood,http://www.norwood.vic.edu.au/,3
+"12 Pickett Crescent, Belmont VIC 3216",03 5243 4444,Oberon High School,Secondary,Belmont,http://oberonhs.vic.edu.au/,4.1
+"1020 Princes Highway, Pakenham VIC 3810",03 5945 1433,Pakenham Secondary College,Secondary,Pakenham,http://www.pakenhamsc.vic.edu.au/,3.1
+"Warren Road, Mordialloc VIC 3195",03 9580 6311,Parkdale Secondary College,Secondary,Mordialloc,http://www.parkdalesc.vic.edu.au/,2.6
+"Lake Avenue, Pascoe Vale VIC 3044",03 9306 2544,Pascoe Vale Girls Secondary College,Secondary,Pascoe Vale,http://www.pvgc.vic.edu.au/,3.1
+"Bedford Road, Ringwood VIC 3134",03 9870 2002,Ringwood Secondary College,Secondary,Ringwood,http://www.ringwoodsc.vic.edu.au/,3.4
+"6 Gleadell Street, Richmond VIC 3121",03 8396 6399,Richmond High School,Secondary,Richmond,http://rhs.vic.edu.au/,5
+"Cavell Street, Scoresby VIC 3179",03 9765 4100,Scoresby Secondary College,Secondary,Scoresby,http://www.scoresbysc.vic.edu.au/,3.3
+"289 Main Road East, St Albans VIC 3021",03 9366 2555,St Albans Secondary College,Secondary,St Albans,http://www.stalbanssc.vic.edu.au/,2.8
+"30 Racecourse Road, Sunbury VIC 3429",03 9744 1066,Sunbury College,Secondary,Sunbury,http://www.sunburysc.vic.edu.au/,2.7
+"350 Sydney Road, Brunswick VIC 3056",03 9380 9417,Sydney Road Community School,Secondary,Brunswick,http://sydneyrdcs.wordpress.com/,4.4
+"80-96 Main Street, Thomastown VIC 3074",03 9465 0844,Thomastown Secondary College,Secondary,Thomastown,http://thomassc.vic.edu.au/,3.4
+"77 Story Street, Parkville VIC 3052",03 9347 2022,University High School,Secondary,Parkville,http://www.unihigh.vic.edu.au/,3.1
+"60-70 Donald Cameron Drive, Roxburgh Park VIC 3064",03 9930 8100,Roxburgh College,Secondary,Roxburgh Park,http://www.roxburghcollege.vic.edu.au/,2.6
+"27 - 63 Morack Road, Vermont VIC 3133",03 9873 1077,Vermont Secondary College,Secondary,Vermont,http://www.vermontsc.vic.edu.au/,3.7
+"68 Bemersyde Drive, Berwick VIC 3806",03 9707 7600,Kambrya College,Secondary,Berwick,http://www.kambryacollege.com/,3
+"263 McCormicks Road, Carrum Downs VIC 3201",03 9788 9100,Carrum Downs Secondary College,Secondary,Carrum Downs,http://cdsc.vic.edu.au/,3.8
+"Harold Street, Wantirna VIC 3152",03 9801 9700,Wantirna College,Secondary,Wantirna,http://www.wantirnacollege.vic.edu.au/,2.9
+"91 Police Road, Mulgrave VIC 3170",03 9547 6822,Wellington Secondary College,Secondary,Mulgrave,http://www.wellingtonsc.vic.edu.au/,3.2
+"45 Duncans Road, Werribee VIC 3030",03 9741 1822,Werribee Secondary College,Secondary,Werribee,http://www.werribeesc.vic.edu.au/,3.1
+"76 Pasco Street, Williamstown VIC 3016",03 9397 1899,Williamstown High School,Secondary,Williamstown,http://www.willihigh.vic.edu.au/,3.4
+"102 Hothlyn Drive, Craigieburn VIC 3064",03 9308 1144,Craigieburn Secondary College,Secondary,Craigieburn,http://www.craigieburnsc.vic.edu.au/,3.6
+"855 Plenty Road, Reservoir VIC 3073",03 9466 0900,Reservoir High School,Secondary,Reservoir,http://www.reservoirhs.vic.edu.au/,3
+"58 - 96 Fordholm Road, Hampton Park VIC 3976",03 8795 9400,Hampton Park Secondary College,Secondary,Hampton Park,http://www.hpsc.vic.edu.au/,3.5
+"2 Fraser Street, Hoppers Crossing VIC 3029",03 9974 7777,Hoppers Crossing Secondary College,Secondary,Hoppers Crossing,https://www.hopcross.vic.edu.au/,3.3
+"Kurunjang Drive, Melton VIC 3337",03 9743 9211,Kurunjang Secondary College,Secondary,Melton,http://www.kurunjangsc.vic.edu.au/,3.1
+"148-174 Mitchells Lane, Sunbury VIC 3429",03 9744 0500,Sunbury Downs Secondary College,Secondary,Sunbury,http://www.sunburydowns.vic.edu.au/,2.5
+"78 - 98 Eel Race Road, Seaford VIC 3198",03 8770 6700,Patterson River Secondary College,Secondary,Seaford,http://www.prsc.vic.edu.au/,4.3
+"17 Paratea Drive, Rowville VIC 3178",03 9755 4555,Rowville Secondary College,Secondary,Rowville,https://www.rowvillesc.vic.edu.au/,3.6
+"456 Springfield Road, Mitcham VIC 3132",03 9874 3422,Mullauna Secondary College,Secondary,Mitcham,http://www.mullauna.vic.edu.au/,3.1
+"19 Cambridge Street, Collingwood VIC 3066",03 9419 7633,Collingwood English Language School,Language,Collingwood,http://www.collingwoodels.vic.edu.au/,4.3
+"21-35 Thomas Street, Noble Park VIC 3174",03 9546 9578,Noble Park English Language School,Language,Noble Park,http://www.nobleparkels.vic.edu.au/,4.2
+"Nell Street, Greensborough VIC 3088",03 9433 2666,Greensborough Secondary College,Secondary,Greensborough,http://www.greensc.vic.edu.au/,2.9
+"9 - 25 Moorhead Drive, Mill Park VIC 3082",03 9407 9700,Mill Park Secondary College,Secondary,Mill Park,http://www.millparksc.vic.edu.au/,3.2
+"30 Deloraine Drive, Hoppers Crossing VIC 3029",03 9748 9166,The Grange P-12 College,Pri/Sec,Hoppers Crossing,http://www.thegrange.vic.edu.au/,2.8
+"238 Collins Street, Thornbury VIC 3071",03 9480 4066,Thornbury High School,Secondary,Thornbury,http://www.thornburyhs.vic.edu.au/,3.4
+"29-69 Kororoit Creek Road, Williamstown VIC 3016",03 9393 5800,Bayside P-12 College,Pri/Sec,Williamstown,http://www.bayside.vic.edu.au/,2.9
+"1051 Nepean Highway, Mornington VIC 3931",03 5970 0200,Mornington Secondary College,Secondary,Mornington,http://www.mornsc.vic.edu.au/,3
+"47 Dawson Street, Brunswick VIC 3056",03 9387 6133,Brunswick Secondary College,Secondary,Brunswick,http://www.brunswick.vic.edu.au/,3.6
+"13-21 O'Sullivan Road, Glen Waverley VIC 3150",03 8805 6700,Glen Waverley Secondary College,Secondary,Glen Waverley,http://www.gwsc.vic.edu.au/,3.8
+"3 Callaghan Street, Noble Park VIC 3174",03 9546 9066,Noble Park Secondary College,Secondary,Noble Park,https://www.nobleparksc.vic.edu.au/,2.9
+"Yarra Boulevard, Richmond VIC 3121",03 9428 8955,Melbourne Girls College,Secondary,Richmond,http://www.mgc.vic.edu.au/,3.9
+"72-96 Newark Avenue, Newborough VIC 3825",03 5127 9200,Lowanna College,Secondary,Newborough,http://www.lowanna.vic.edu.au/,2.7
+"Etty Street, Castlemaine VIC 3450",03 5479 1111,Castlemaine Secondary College,Secondary,Castlemaine,http://www.csc.vic.edu.au/,3
+"55 Burke Street, Warragul VIC 3820",03 5623 9900,Warragul Regional College,Secondary,Warragul,http://www.wrc.vic.edu.au/contact-us/,2.6
+"Cnr Forest St And Giot Dve, Wendouree VIC 3355",03 5336 7200,Ballarat Secondary College,Secondary,Wendouree,http://www.ballaraths.vic.edu.au/,2.7
+"Belar Avenue, Frankston VIC 3199",03 9789 4544,McClelland Secondary College,Secondary,Frankston,http://www.mcclellandcollege.vic.edu.au/,2.9
+"1 Kinnear Street, Footscray VIC 3011",03 8387 1500,Footscray City College,Secondary,Footscray,http://www.footscray.vic.edu.au/,3
+"34 Alkara Avenue, Lara VIC 3212",03 5282 8988,Lara Secondary College,Secondary,Lara,http://www.larasc.vic.edu.au/,2
+"101 Urquhart Street, Coburg VIC 3058",03 9353 1700,Coburg High School,Secondary,Coburg,http://www.coburg.vic.edu.au/,3.4
+"2-30 Hampton Street, Craigieburn VIC 3064",03 8338 3600,Mount Ridley P-12 College,Pri/Sec,Craigieburn,http://www.mountridleycollege.vic.edu.au/,3.2
+"39 Innovation Walk, Clayton VIC 3800",03 9905 1002,John Monash Science School,Secondary,Clayton,http://www.jmss.vic.edu.au/,4.2
+"103 A Grieve Parade, Altona VIC 3018",03 9250 8050,Altona P-9 College,Pri/Sec,Altona,http://www.altonap9college.vic.edu.au/,3.4
+"92-106 Princes Highway, Dandenong VIC 3175",03 9792 0561,Dandenong High School,Secondary,Dandenong,http://www.dandenong-hs.vic.edu.au/,3.9
+"60-78 Tanderrum Way, Broadmeadows VIC 3047",03 9066 3600,Hume Central Secondary College,Secondary,Broadmeadows,http://www.humecentralsc.vic.edu.au/,2.6
+"100 Clyde Road, Berwick VIC 3806",03 8762 4600,Nossal High School,Secondary,Berwick,http://nossalhs.vic.edu.au/,4.3
+"225 Hoppers Lane, Werribee VIC 3030",03 8734 2800,Suzanne Cory High School,Secondary,Werribee,http://www.suzannecoryhs.vic.edu.au/,4.1
+"58 Reema Boulevard, Endeavour Hills VIC 3802",03 9708 1319,Gleneagles Secondary College,Secondary,Endeavour Hills,http://www.gleneagles.vic.edu.au/,2.5
+"45 Josephine Avenue, Narre Warren VIC 3805",03 8762 6839,Fountain Gate Secondary College,Secondary,Narre Warren,http://www.fountaingatesc.vic.edu.au/,2.5
+"29-47 Stewart Street, Seymour VIC 3660",03 5771 1300,Seymour College,Pri/Sec,Seymour,http://www.seymourcollege.vic.edu.au/,1
+"83 Danks Street, Albert Park VIC 3206",03 8695 9000,Albert Park College,Secondary,Albert Park,http://www.albertparkcollege.vic.edu.au/,3
+"5A Jamieson Street, St Albans VIC 3021",03 8312 0200,Victoria University Secondary College,Secondary,St Albans,http://www.vusc.vic.edu.au/,2.6
+"120 Glenroy Road, Glenroy VIC 3046",03 9304 0400,Glenroy Secondary College,Secondary,Glenroy,http://www.glenroycollege.vic.edu.au/,2.6
+"Jukes Road, Fawkner VIC 3060",03 9359 1166,John Fawkner Secondary College,Secondary,Fawkner,http://www.jfc.vic.edu.au/,3.7
+"60 Merrilands Road, Reservoir VIC 3073",03 9462 2177,William Ruthven Secondary College,Secondary,Reservoir,http://www.williamruthvensc.vic.edu.au/,2.1
+"53 - 71 Hertford Street, Sebastopol VIC 3356",03 5329 3293,Phoenix P-12 Community College,Pri/Sec,Sebastopol,http://www.phoenix.vic.edu.au/,3.6
+"3-25 Goldsworthy Road, Corio VIC 3214",03 5224 9700,Northern Bay P-12 College,Pri/Sec,Corio,http://www.northernbaycollege.vic.edu.au/,4.3
+"75 White Street, Torquay VIC 3228",03 5261 6633,Surf Coast Secondary College,Secondary,Torquay,http://www.surfcoastsecondarycollege.vic.edu.au/,3.3
+"Brentnall Road, Croydon VIC 3136",03 9870 4551,Melba Secondary College,Secondary,Croydon,http://melba.vic.edu.au/,3.1
+"35-37 Albert Avenue, Boronia VIC 3155",03 9760 4900,Boronia K-12 College,Pri/Sec,Boronia,http://www.boroniak-12.vic.edu.au/,3.2
+"900-930 Park Street, Parkville VIC 3052",03 5421 3100,Parkville College,Special,Parkville,http://parkvillecollege.vic.edu.au/,4
